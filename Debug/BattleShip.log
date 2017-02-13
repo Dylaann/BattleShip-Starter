@@ -1,0 +1,12 @@
+﻿  square.cpp
+  ships.cpp
+  map.cpp
+  Level.cpp
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Game.cpp
+c:\users\public\documents\visual studio 2015\projects\battleship\game.cpp(5): warning C4244: 'initializing': conversion from 'double' to 'sf::Int32', possible loss of data
+  Generating Code...
+  BattleShip.vcxproj -> C:\Users\Public\Documents\visual studio 2015\Projects\BattleShip\Debug\BattleShip.exe
+  BattleShip.vcxproj -> C:\Users\Public\Documents\visual studio 2015\Projects\BattleShip\Debug\BattleShip.pdb (Partial PDB)
